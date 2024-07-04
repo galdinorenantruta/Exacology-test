@@ -10,6 +10,11 @@ His son Ángel, who is a programmer, has told him that Mercado Libre has an open
 
 Ángel did some research and found out that Miguel's store `Seller ID` is `179571326`, and that the Mercado Libre API has an endpoint that allows searching for products from a particular seller, the endpoint is `https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326`. He also mentioned that by entering the endpoint from the browser, we can see the response in JSON format along with some information. The rest of the API documentation is available at [this link](https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas).
 
+## UI
+
+- [ ] Use Figma to create the designs and prototype, [View the Figma Design](https://www.figma.com/design/AKmpBLdf7UfWnpRkqfC9Uq/migrado-libre?node-id=1-2432&t=8Oo0qfDZABA8Nctb-1)
+
+
 ## Requirements
 
 - [ ] When entering the route `/`, we should see a list of all of Miguel's products in a grid format.
